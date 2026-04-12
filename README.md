@@ -3,6 +3,8 @@
 A Java desktop application that analyzes password strength in real-time and provides instant 
 feedback to help users create secure passwords.
 
+<img width="866" height="553" alt="Screenshot 2026-04-10 145739" src="https://github.com/user-attachments/assets/6e5c128a-c484-4d5e-b860-3a98c7e17f26" />
+
 ## Features
 
 - **Real-Time Analysis**: Password strength analyzed as you type
