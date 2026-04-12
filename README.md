@@ -1,7 +1,6 @@
 # Password Strength Analyser
 
-A Java desktop application that analyzes password strength in real-time and provides instant 
-feedback to help users create secure passwords.
+Final Project for Advanced Programming (CIT244) at T.A. Marryshow Community College. Java desktop application analyzing password strength in real-time with visual feedback.
 
 <img width="866" height="553" alt="Screenshot 2026-04-10 145739" src="https://github.com/user-attachments/assets/6e5c128a-c484-4d5e-b860-3a98c7e17f26" />
 
@@ -37,4 +36,4 @@ feedback to help users create secure passwords.
 
 <br>
 
-<b>[&copy; 2026 Ahndre Walters](https://github.com/AhndreWalters/Password-Strength-Analyser-JAVA/blob/main/LICENSE)</b>
+<b>[&copy; 2026 Ahndre Walters](https://github.com/AhndreWalters/Password-Strength-Analyser-JAVA/blob/main/LICENSE) · Password Strength Analyser · TAMCC Advance Programming Course · College Course Final Project</b>
